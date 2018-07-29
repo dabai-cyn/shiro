@@ -3,6 +3,14 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/chapter12" />
     <file type="web" url="file://$PROJECT_DIR$/chapter14" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter15/client" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter15/server" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter17-client" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter17-server" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter17/client" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter17/client17" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter17/server" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter17/server17" />
     <file type="web" url="file://$PROJECT_DIR$/chapter7" />
   </component>
   <component name="JsFlowSettings">
@@ -18,7 +26,17 @@
         <option value="$PROJECT_DIR$/chapter2/pom.xml" />
         <option value="$PROJECT_DIR$/chapter3/pom.xml" />
         <option value="$PROJECT_DIR$/chapter14/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter15/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/chapter15/client/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter15/server/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter17/client/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter17/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter17/server/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">

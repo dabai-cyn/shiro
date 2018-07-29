@@ -16,6 +16,9 @@
         <module>chapter12</module>
         <module>chapter14</module>
         <module>chapter15</module>
+        <module>chapter17-server</module>
+        <module>chapter17-client</module>
+        <module>chapter23</module>
 
     </modules>
 
