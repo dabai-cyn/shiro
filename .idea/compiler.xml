@@ -11,18 +11,25 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="app1" />
+        <module name="app2" />
         <module name="chapter12" />
         <module name="chapter14" />
         <module name="chapter17-client" />
         <module name="chapter17-server" />
         <module name="chapter2" />
-        <module name="chapter23" />
         <module name="chapter3" />
         <module name="chapter4" />
         <module name="chapter7" />
+        <module name="client" />
+        <module name="core" />
+        <module name="nginx" />
+        <module name="server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="app1" target="1.8" />
+      <module name="app2" target="1.8" />
       <module name="chapter12" target="1.8" />
       <module name="chapter14" target="1.8" />
       <module name="chapter15" target="1.8" />
@@ -37,6 +44,8 @@
       <module name="client" target="1.8" />
       <module name="client (1)" target="1.8" />
       <module name="client17" target="1.8" />
+      <module name="core" target="1.8" />
+      <module name="nginx" target="1.8" />
       <module name="server" target="1.8" />
       <module name="server17" target="1.8" />
       <module name="shiro" target="1.8" />

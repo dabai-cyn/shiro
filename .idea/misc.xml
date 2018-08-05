@@ -11,6 +11,10 @@
     <file type="web" url="file://$PROJECT_DIR$/chapter17/client17" />
     <file type="web" url="file://$PROJECT_DIR$/chapter17/server" />
     <file type="web" url="file://$PROJECT_DIR$/chapter17/server17" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter23/app1" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter23/app2" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter23/client" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter23/server" />
     <file type="web" url="file://$PROJECT_DIR$/chapter7" />
   </component>
   <component name="JsFlowSettings">
@@ -27,6 +31,7 @@
         <option value="$PROJECT_DIR$/chapter3/pom.xml" />
         <option value="$PROJECT_DIR$/chapter14/pom.xml" />
         <option value="$PROJECT_DIR$/chapter15/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter23/client/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

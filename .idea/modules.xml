@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/chapter23/app1/app1.iml" filepath="$PROJECT_DIR$/chapter23/app1/app1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter23/app2/app2.iml" filepath="$PROJECT_DIR$/chapter23/app2/app2.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter12/chapter12.iml" filepath="$PROJECT_DIR$/chapter12/chapter12.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter14/chapter14.iml" filepath="$PROJECT_DIR$/chapter14/chapter14.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter15/chapter15.iml" filepath="$PROJECT_DIR$/chapter15/chapter15.iml" />
@@ -12,6 +14,10 @@
       <module fileurl="file://$PROJECT_DIR$/chapter3/chapter3.iml" filepath="$PROJECT_DIR$/chapter3/chapter3.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter4/chapter4.iml" filepath="$PROJECT_DIR$/chapter4/chapter4.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter7/chapter7.iml" filepath="$PROJECT_DIR$/chapter7/chapter7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter23/client/client.iml" filepath="$PROJECT_DIR$/chapter23/client/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter23/core/core.iml" filepath="$PROJECT_DIR$/chapter23/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter23/nginx/nginx.iml" filepath="$PROJECT_DIR$/chapter23/nginx/nginx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter23/server/server.iml" filepath="$PROJECT_DIR$/chapter23/server/server.iml" />
       <module fileurl="file://$PROJECT_DIR$/shiro.iml" filepath="$PROJECT_DIR$/shiro.iml" />
     </modules>
   </component>
